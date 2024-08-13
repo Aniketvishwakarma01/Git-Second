@@ -2,7 +2,7 @@ console.log("Hello World! I don't give a bug.")
 function myFunction(){
     console.log("Hello");
     console.log("How are you?");
-}
+}2
 myFunction()
 
 let name="anni";
@@ -28,7 +28,7 @@ let name="anni";
 
 // it stores string data type
 let txt="Hey developers.";
-
+console.log(txt);
 // It stores integer data type.
 let a=4;
 let b=67;
@@ -36,15 +36,14 @@ let b=67;
 // it stores boolean data type.
 console.log(a==b);
 
-// to check Strictly (i.e. Whether the datatypes of both 
-// variables are same.) === is used 
+// to check Strictly (i.e. Whether the datatypes of both variables are same.) === is used 
 console.log(a===b); // ---> returns true to console.
 
 // it stores array datatype
 let places=["Haridwar","Somnath","kedarnath"];
 console.log(places);
 
-// it  stores object data(objects are represented in the below way mainly)
+// it  stores object data(objects are represented in the below way mainly).
 
 let Student={
     firstName:"Anni",
